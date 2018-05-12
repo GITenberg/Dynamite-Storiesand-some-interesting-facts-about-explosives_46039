@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40285'
     url: http://www.gutenberg.org/2009/agents/40285
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46039#Dynamite-Storiesand-some-interesting-facts-about-explosives
 gutenberg_issued: '2014-06-20'
 gutenberg_type: Text
 identifiers:
